@@ -14,3 +14,5 @@ Apa yang dapat Anda temukan di web ini:
 - Gallery: Menampilkan gambar-gambar menarik yang terkait dengan kelas kami.
 - Structure And Schedule: Memberikan informasi rinci tentang struktur kelas dan jadwal yang tersedia.
 
+
+Link: https://xti2manusa.vercel.app
